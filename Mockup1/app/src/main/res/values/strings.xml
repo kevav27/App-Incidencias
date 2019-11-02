@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Mockup1</string>
+    <string name="screentitle">Reporte la Situación</string>
+    <string name="descripcion">Todos los campos indicados son necesarios para realizar el reporte.</string>
+    <string name="seleccionCategoria">Seleccione una Categoría*</string>
+    <string name="seleccionEmpresa">Seleccione una empresa *</string>
+    <string name="cedula">Cédula</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellidos">Apellidos</string>
+    <string name="numerocontacto">Número de contacto</string>
+    <string name="ubicacion">Incluir ubicación</string>
+    <string name="evidenciafoto">Evidencia Fotográfica</string>
+    <string name="fotodescripcion">Incluya aquí dos imágenes de referencia.</string>
+    <string name="foto1">CARGAR FOTO 2</string>
+    <string name="foto2">CARGAR FOTO 2</string>
+    <string name="enviar">ENVIAR</string>
+
+    <string-array name="select_1">
+        <item>Puentes</item>
+        <item>Carreteras</item>
+        <item>Servicio Publico</item>
+        <item>Servicio Privado</item>
+    </string-array>
+
+    <string-array name="select_2">
+        <item>Instituto Costarricense de Electricidad</item>
+        <item>Municipalidad</item>
+        <item>Compania Cablera</item>
+        <item>Instituto Costarricense de Acueductos y Alcantarillados</item>
+    </string-array>
+</resources>
